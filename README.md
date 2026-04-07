@@ -1,0 +1,2 @@
+# Implement-and-Manage-Zero-Trust-Network-Access-ZTNA-Using-Zscaler
+The main objective of this project is to design, deploy, and manage a secure access system where users, devices, and applications are continuously verified before granting access. By using Zscaler’s Zero Trust architecture, secure connections are established between users and applications without exposing the internal network to potential threats.
